@@ -1,0 +1,50 @@
+package class_Project;
+
+import org.openqa.selenium.WebElement;
+
+public class Base_Class {
+	
+	public static void userInput(WebElement element, String value) {
+	element.sendKeys(value);
+}
+
+public static void click(WebElement element) {
+	element.click();
+}
+
+public static void clear(WebElement element) {
+	element.clear();
+}
+
+public static void sleep() throws InterruptedException {
+	Thread.sleep(5000);
+}
+
+public static void getting_Text(WebElement element) {
+	String text = element.getText();
+	System.out.println(text);
+}
+
+public static void get_Attribute(WebElement element, String value) {
+	String attribute = element.getAttribute(value);
+	System.out.println(attribute);
+}
+public static void is_Selected(WebElement element) {
+	boolean isSelected = element.isSelected();
+	System.out.println(isSelected);
+
+}
+
+public static void is_Enabled(WebElement element) {
+	boolean isEnabled = element.isEnabled();
+	System.out.println(isEnabled);
+
+}
+
+public static void is_Displayed(WebElement element) {
+	boolean isDisplayed = element.isDisplayed();
+	System.out.println(isDisplayed);
+}
+
+
+}

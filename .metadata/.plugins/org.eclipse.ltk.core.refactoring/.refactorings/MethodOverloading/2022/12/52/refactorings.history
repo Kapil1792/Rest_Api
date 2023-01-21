@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;batch8Am&apos; to &apos;Java_Concepts/src&apos;&#x0D;&#x0A;- Original project: &apos;MethodOverloading&apos;&#x0D;&#x0A;- Destination element: &apos;Java_Concepts/src&apos;&#x0D;&#x0A;- Original element: &apos;MethodOverloading/src/batch8Am&apos;" description="Copy package" destination="=Java_Concepts/src" element1="/src&lt;batch8Am" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1671610173194" version="1.0"/>
+</session>

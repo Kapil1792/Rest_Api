@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Base_Class_2.java&apos; to &apos;Mavern_Concepts/src/nestedLoop&apos;&#x0D;&#x0A;- Original project: &apos;Selenium_Trail&apos;&#x0D;&#x0A;- Destination element: &apos;Mavern_Concepts/src/nestedLoop&apos;&#x0D;&#x0A;- Original element: &apos;class_Project.Base_Class_2.java&apos;" description="Copy compilation unit" destination="=Mavern_Concepts/src=/optional=/true=/=/maven.pomderived=/true=/&lt;nestedLoop" element1="/src&lt;class_Project{Base_Class_2.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1674019601552" units="1" version="1.0"/>
+</session>
